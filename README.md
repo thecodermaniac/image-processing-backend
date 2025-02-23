@@ -5,6 +5,7 @@ A Node.js service that processes images in bulk from CSV files, uploads them to 
 ## Table of Contents
 - [Image Processing Service](#image-processing-service)
   - [Table of Contents](#table-of-contents)
+  - [FlowChart](#flowchart)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -28,6 +29,8 @@ A Node.js service that processes images in bulk from CSV files, uploads them to 
   - [Contributing](#contributing)
   - [License](#license)
 
+## FlowChart
+![diagram-export-2-23-2025-8_31_19-PM](https://github.com/user-attachments/assets/674afccb-3147-4441-b585-ea8af83f071d)
 ## Features
 - Bulk image processing from CSV files
 - Cloudinary integration for image storage
