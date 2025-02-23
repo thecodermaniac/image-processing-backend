@@ -18,7 +18,7 @@ export const processCSV = async (buffer) => {
         // Process each record
         for (const record of parsedRecords) {
             const inputUrls = record['Input Image Urls']
-                .split(';')
+                .split(',')
                 .map(url => url.trim())
                 .filter(url => url.length > 0);
 

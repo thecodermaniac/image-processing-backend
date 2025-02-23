@@ -185,7 +185,7 @@ S. No.,Product Name,Input Image Urls
 ```
 
 **Notes:**
-- Multiple image URLs should be separated by semicolons
+- Multiple image URLs should be separated by comma
 - Headers are required
 - All fields are required
 
